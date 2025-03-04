@@ -11,6 +11,4 @@
 <a href="https://www.linkedin.com/in/edigakavya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/> <img src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
