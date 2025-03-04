@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello World 🌍, I'm Kavya
+**Aspiring Data Analyst**
 
-<!--
-**Kavya-CS/Kavya-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Master's in **Mathematics**
+- 💪 Skills: **Excel, Power BI, SQL** (Proficient) | **Python** (Currently Learning)
+- 🔍 Passionate about transforming data into actionable insights
+- 📫 How to reach me: [kavyaesuresh2001@gmail.com]
+- 🌟 Fun fact: Numbers are my playground, and insights are my game!
 
-Here are some ideas to get you started:
+### Connect with me:
+<a href="https://www.linkedin.com/in/edigakavya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
