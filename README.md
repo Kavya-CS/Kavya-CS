@@ -4,7 +4,7 @@
 - 🎓 Master's in **Mathematics**
 - 💪 Skills: **Excel, Power BI, SQL** (Proficient) | **Python** (Currently Learning)
 - 🔍 Passionate about transforming data into actionable insights
-- 📫 How to reach me: [kavyaesuresh2001@gmail.com]
+- 📫 How to reach me: kavyaesuresh2001@gmail.com
 - 🌟 Fun fact: Numbers are my playground, and insights are my game!
 
 ### Connect with me:
